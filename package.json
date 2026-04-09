@@ -1,0 +1,8 @@
+{
+  "name": "lod-ash",
+  "version": "1.0.0",
+  "description": "Utility library",
+  "main": "index.js",
+  "author": "anonymous",
+  "license": "MIT"
+}
